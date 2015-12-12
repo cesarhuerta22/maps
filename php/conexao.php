@@ -1,7 +1,7 @@
 <?php
 	$servidor = "localhost";
 	$usuario = "root";
-	$senha = "91238176joaovictor";
+	$senha = "suasenha";
 	$banco = "maps";
 
 	$conexao = mysql_connect($servidor, $usuario, $senha) or die(mysql_error());
